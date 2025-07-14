@@ -4,13 +4,13 @@ The questions are designed from the aspect of Effectiveness (EF), Ease of Use (E
 
 Data Quality:
 
--File format: .csv
--Total responses: 190
--No missing or invalid data
--Cleaned and validated for accuracy
+Data Quality
+- File format: .csv
+- Total responses: 120
+- No missing or invalid data 
 
 This dataset can be used for:
 
--Research related to customer behavior in e-commerce
+Research related to customer behavior in e-commerce
 -Statistical analysis using customer perception and behavioral intention frameworks
 -Academic studies involving Big Data Analytics in online retail environments
