@@ -1,2 +1,1 @@
-# Customer-Perceptions-of-Big-Data-Analytics-in-E-Commerce-Dataset
-Customer Perceptions of Big Data Analytics in E-Commerce Dataset
+This dataset contains 190 responses collected from participants regarding their perceptions of Big Data Analytics (BDA) in e-commerce platforms. The data was gathered via an online questionnaire designed around constructs from the Customer Relationship Management (CRM) theory and Data-Driven Decision Making (DDDM) theory.
